@@ -1,0 +1,1 @@
+Ku poslednému príkladu pridaj metódu, ktorá porovná pohlavia dvoch ľudí.

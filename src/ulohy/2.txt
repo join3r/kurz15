@@ -1,0 +1,2 @@
+Vytvorte struct pre procesor. Procesor má počet jadier, frekvenciu.
+Uložte v tom structe 2 procesory.

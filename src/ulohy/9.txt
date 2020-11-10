@@ -1,0 +1,2 @@
+Vytvorte vektor stringov.
+Vložte do vektora 3 stringy.

@@ -1,0 +1,2 @@
+Vytvorte struct pre knihu. Každá kniha má rok, počet strán a meno.
+Ulozte v tom structe 2 knihy.

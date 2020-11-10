@@ -1,0 +1,3 @@
+Vytvorte struct pre človeka. Človeka v našom prípade definuje meno, vek, pohlavie, záujmy.
+Vytvorte dvoch ľudí.
+Implementujte metódu, ktorá vyráta, kedy sa človek narodil.

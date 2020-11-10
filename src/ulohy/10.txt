@@ -1,0 +1,2 @@
+S vedomosťami, ktoré si nazbieral vytvor struct pre psa. Pes má vek, pohlavie, rasu.
+Ulozte 2 psov do variable.

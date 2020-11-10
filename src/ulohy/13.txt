@@ -1,0 +1,1 @@
+Ku poslednému príkladu pridaj metódu, ktorá zistí, či sú ľudia compatibilný na základe pohlavia a sexuálnej orientácie.

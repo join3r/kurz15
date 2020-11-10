@@ -1,0 +1,3 @@
+Vytvorte enum pre možné odpovede na otázku:
+"Berieš drogy?"
+Ulož dve rozdielne odpovede do dvoch variable.

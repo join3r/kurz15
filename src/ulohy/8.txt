@@ -1,0 +1,3 @@
+Vytvorte enum pre pohlavie.
+Uložte 2 pohlavia.
+Implementujte metódu, ktorá zmení pohlavie.

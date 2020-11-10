@@ -1,0 +1,3 @@
+Vytvor struct pre človeka. Človek má prvé a druhé meno, vek, pohlavie, sexuálnu orientáciu a záujmy.
+Vytvor dvoch ľudí.
+Implementuj metódu, ktorá zistí, či sú dvaja ľudia rodina.
