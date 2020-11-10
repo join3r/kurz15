@@ -1,1 +1,2 @@
-Ku poslednému príkladu pridaj metódu, ktorá porovná pohlavia dvoch ľudí.
+Ku poslednému príkladu pridaj metódu, ktorá zistí či sú dvaja rovnakého pohlavia.
+Zistite, či sú Gejza a Pišta rodina.

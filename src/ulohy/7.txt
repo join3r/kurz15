@@ -1,2 +1,2 @@
-Vytvorte enum pre vekové kategórie.
-Uložte dve vekové kategórie.
+Vytvorte enum pre vekové kategórie (bábätko, dieťa, mladý, starý, starýkôň).
+Uložte vekovú kategóriu pre Pištu a Gejzu.

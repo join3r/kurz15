@@ -1,3 +1,4 @@
 Vytvor struct pre človeka. Človek má prvé a druhé meno, vek, pohlavie, sexuálnu orientáciu a záujmy.
-Vytvor dvoch ľudí.
-Implementuj metódu, ktorá zistí, či sú dvaja ľudia rodina.
+Vytvor Gejzu a Pištu.
+Vytvor funkciu, ktorá zistí či sú dvaja ľudia rodina.
+Zistite, či sú Gejza a Pišta rodina.

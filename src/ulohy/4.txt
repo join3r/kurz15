@@ -1,2 +1,3 @@
 Vytvorte struct pre čokoládu. Čokoláda má typ (čierna, mliecna, biela), váhu a značku.
 Uložte 2 čokolády.
+Vypíšte značku oboch čokolád.

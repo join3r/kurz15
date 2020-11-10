@@ -1,3 +1,3 @@
 Vytvorte enum pre pohlavie.
-Uložte 2 pohlavia.
-Implementujte metódu, ktorá zmení pohlavie.
+Uložte pohlavie pre Gejzu a Pištu.
+Implementujte metódu, ktorá vypíše pohlavie.
