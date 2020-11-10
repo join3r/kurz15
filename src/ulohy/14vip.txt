@@ -1,1 +1,0 @@
-Ku poslednému príkladu pridaj metódu, ktorá zistí, či majú spoločné záujmy.

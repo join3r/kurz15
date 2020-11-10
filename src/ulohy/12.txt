@@ -1,2 +1,4 @@
-Ku poslednému príkladu pridaj metódu, ktorá zistí či sú dvaja rovnakého pohlavia.
-Zistite, či sú Gejza a Pišta rodina.
+Vytvor struct pre Človeka. Človek má meno, vek, pohlavie a meno psa.
+Vytvor Hufnágela, ktorý má psa a Gejzu ktorý nemá psa.
+
+pzn. použi Option<T>
