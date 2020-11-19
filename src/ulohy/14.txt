@@ -1,0 +1,3 @@
+Sprav program pre uchádzačov o prácu v SAPe.
+Vytvor struct pre Janka, Kubka a Deža. Struct by mal držať meno, minimálny plat a roky (u8) skúseností so SAPom.
+Jeden z nich má 10 rokov skúseností, druhý žiadne a tretí sa začal SAPu venovať pred 3ma dňami.

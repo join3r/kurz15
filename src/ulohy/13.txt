@@ -1,0 +1,4 @@
+Vytvor struct pre cirkevnú školu. Ktorá má meno podľa niekoho svetého, písmeno (trieda A, trieda B) a ročník.
+Keďže je to cirkevná škola, má buď chlapčenské alebo dievčenské triedy.
+Vytvor triedu pre 4 ročník, ktorá má v 15 chlapcov.
+Vytvor triedu pre 4 ročník, ktorá má 16 dievčať.

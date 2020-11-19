@@ -1,0 +1,6 @@
+Ku poslednému príkladu vytvor metódu, ktorá bude klamať o skúsenostiach s SAPom.
+Ak uchádzač nemá žiadne skúsenosti s SAPom, tak metóda povie, že má 1 rok skúseností.
+Ak má uchádzaš menej ako 3 roky, tak povie, že má vyše 3 roky skúseností s SAPom.
+AK uchádzač má viac ako 6 rokov, tak metóda povie, že uchádzač sa zabil, lebo už nechcel viac žiť.
+
+pzn. použi if let
